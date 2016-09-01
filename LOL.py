@@ -6,3 +6,4 @@ print(S.find('ll'))
 
 print(S.find('L'))
 print(S.rfind('l'))
+'Hello'.replace('l', 'L')

@@ -1,4 +1,8 @@
-S='AUSTRONAUT'
-a=S[2:5]
+S = 'eeeelllleeLL1'
 
-print(a)
+print(S.find('e'))
+
+print(S.find('ll'))
+
+print(S.find('L'))
+print(S.rfind('l'))
